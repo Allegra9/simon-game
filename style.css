@@ -1,0 +1,39 @@
+
+.container {
+  margin-top: 50px;
+}
+
+.color-button {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+
+#yellow {
+  background-color: #e2d002;
+}
+.light-yellow {
+  background-color: #f5ff47 !important;
+}
+
+#green {
+  background-color: #075b02;
+}
+.light-green {
+  background-color: #47ff56 !important;
+}
+
+#red {
+  background-color: #820606;
+}
+.light-red {
+  background-color: #f72900 !important;
+}
+
+#blue {
+  background-color: #0061ff;
+}
+.light-blue {
+  background-color: #14d3ff !important;
+}
+
